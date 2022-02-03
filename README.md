@@ -1,2 +1,2 @@
-# Loan-Management-System
-A DBMS mini project on Bank Loan management 
+# Loan-Management-system
+Loan-Management-system
